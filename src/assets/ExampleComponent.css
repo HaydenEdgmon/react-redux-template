@@ -1,0 +1,9 @@
+.exampleComponent{
+    width: 50%;
+    height: 30%;
+    background: lightgreen;
+    color: #222222;
+    border-radius: 4px;
+    margin: 10px auto;
+    padding: 15px 0;
+}
