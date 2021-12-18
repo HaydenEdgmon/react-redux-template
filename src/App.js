@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg'
-import Proveider from 'react-redux'
 import Main from './containers/Main'
 import store from './configureStore'
 import { Provider } from 'react-redux'
